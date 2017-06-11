@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/amit/git/Nltk_TradeReports/com/amit/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/Users/amit/git/Nltk_TradeReports/com/amit/chatbot/model.tflearn"
